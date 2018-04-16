@@ -1,3 +1,3 @@
 # PyCalculator
 
-Basisc calculator written in Python3.6
+Basic calculator written in Python3.6
